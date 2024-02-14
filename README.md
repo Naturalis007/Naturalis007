@@ -1,7 +1,16 @@
-<h1 align="center">Hola! ✌️ </h1>
-<h4 align="center">📌Soy Tamara, una persona entusiasta por las tecnologías emergentes y una Desarrolladora FullStack en constante aprendizaje ;)  <br></br>
+<h1 align="center">Hola! ✌️  Me llamo Tamara Salas V.</h1>
+<h4 align="center">📌Soy una <i> Desarrolladora FullStack </i> en constante aprendizaje ;)  <br></br>
 
-💣 Estoy incorporándome al mundo tecnológico desde hace unos meses, aprendiendo JavaScript, Python, HTML, CSS, base de datos y Apis, entre otras cosas, y la verdad es que ha sido una verdadera experiencia de aprendizaje. Esto me ha permitido crear proyectos para interiorizarme en el mundo digital a través de 4geeks Academy y estudio autodidacta. <br></br>
+💣 Estoy incorporándome al mundo tecnológico desde hace unos meses, aprendiendo las siguientes tecnologías:  <br></br>
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![Github](https://img.icons8.com/material-outlined/30/github.png)
+![Git](https://img.icons8.com/color/30/git.png)
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![ReactJS](https://img.icons8.com/color/30/react-native.png)
+
+Y sabes qué? Ha sido una verdadera experiencia de aprendizaje Esto me ha permitido crear proyectos para interiorizarme en el mundo digital a través de 4geeks Academy y estudio autodidacta. <br></br>
 
 📈 Pasa por mi perfil, revisa los repositorios y verás cómo mi curva de aprendizaje y aportes va en subida 😎 <br></br>
 
