@@ -1,5 +1,5 @@
 <h1 align="center">Hola! ✌️  Me llamo Tamara Salas V.</h1>
-<h3 align="center">📌Soy una <i> Desarrolladora FullStack </i> en constante aprendizaje ;)  <br></br>
+<h3 align="center">📌<i> Desarrolladora FullStack </i> en constante aprendizaje ;)  <br></br>
 
 💣 Estoy incorporándome al mundo tecnológico, aprendiendo las siguientes tecnologías:  <br></br>
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
